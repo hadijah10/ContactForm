@@ -49,3 +49,12 @@ button{
     cursor:pointer;
     margin: 1em auto;
 }
+.container2 h2{
+    font-size:2em;
+    margin:2em 2em;
+    letter-spacing:0.5em;
+    line-height:2em;
+}
+.container2 p{
+    margin:2em 2em;
+}
